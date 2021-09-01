@@ -51,7 +51,7 @@
   <img src = "https://github.com/jsparrow08/leo_project/blob/main/Bot_running.gif"/>
  
   
-  Now, as shown in GIF file, our Rover is able to move on its path.
+  Now, as shown in GIF file, our Rover is able to move on its path. In the <B>top left corner</B> you will be able to see the path detection by the Rover in a window.
   
   # <h3>FUTURE SCOPES :<h3>
   
